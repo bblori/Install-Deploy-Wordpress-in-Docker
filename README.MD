@@ -1,5 +1,5 @@
 ````Deploy Wordpress in Docker````
-
+```
 version: '3.3'
 
 services:
@@ -30,4 +30,4 @@ services:
 volumes:
     wordpress_files:
     db_data:
-
+```
